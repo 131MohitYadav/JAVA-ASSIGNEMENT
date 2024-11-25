@@ -1,0 +1,31 @@
+// FRONT-END DEVELOPMENT CLASS NOTES
+
+//Date - 8 / 11 / 24
+
+ 1 .website - > collection of webpages.
+
+ 2.webpage -> collection of data,information etc.
+
+ 3.software -> collection of programmes is called software
+
+
+// TYPES OF SOFTWARE 
+
+Application software - like Instagram,whatsapp
+
+System software - like window , android
+
+
+ //Markup language - browser understand  , no error while running the files
+
+// Hypertext - link the pages
+
+// HTML - > are used for design the structuring  or layout of website
+
+// Tag -> are called reserved word
+
+// < -> angular 
+
+// Types of  tags -> container and non-container tag
+// container tag - > jo content ko contain krke rakta hai
+
